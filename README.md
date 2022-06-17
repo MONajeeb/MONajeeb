@@ -8,7 +8,7 @@
 
 ## Connect with me:
 
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/mohamednajeeb30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khushboogoel01" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/mohamed-najeeb96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khushboogoel01" height="30" width="40" /></a>
 <a href="https://instagram.com/mohamednajeeb300" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_khushboo.goel" height="30" width="40" /></a>
