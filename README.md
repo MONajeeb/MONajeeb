@@ -47,5 +47,5 @@
 <img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MONajeeb&layout=compact"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MONajeeb&label=Profile%20views&color=129e00&style=plastic" alt="MONajeeb" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 
