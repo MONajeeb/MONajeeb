@@ -18,6 +18,8 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Reactjs-%23323330.svg?style=for-the-badge&logo=Reactjs&logoColor=%23F7DF1E" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="padding-right:10px;" />
 
 <br />
 <br />
