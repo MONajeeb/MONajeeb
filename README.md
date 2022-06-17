@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="padding-right:10px;" />
 
 <br />
 <br />
@@ -36,6 +36,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MONajeeb&label=Profile%20views&color=129e00&style=plastic" alt="MONajeeb" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-[twitter]: https://twitter.com/mohamednajeeb30
-[instagram]: https://instagram.com/mohamednajeeb300
-[linkedin]: https://linkedin.com/in/mohamed-najeeb96
