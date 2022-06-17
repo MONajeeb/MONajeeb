@@ -2,10 +2,8 @@
 
 ## I'm a Junior software Developer!
 
-
-- 👯 I’m currently an Internship trainee in ITI 9-month Professional diploma in 
+- 👯 I’m currently an Internship trainee in ITI 9-month Professional diploma in
 - 🥅 2022 Goals: To upgrade my skills in Full stack .NET development
-
 
 ### Connect with me:
 
@@ -40,10 +38,8 @@
 <br />
   <summary>:zap: GitHub Stats</summary>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MONajeeb&show_icons=true&theme=radical"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MONajeeb&layout=compact"/>
-
-
+<img  width="47%" src="https://github-readme-stats.vercel.app/api?username=MONajeeb&show_icons=true&theme=radical"/>
+<img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MONajeeb&layout=compact"/>
 
 [twitter]: https://twitter.com/mohamednajeeb30
 [instagram]: https://instagram.com/mohamednajeeb300
