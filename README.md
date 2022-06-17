@@ -1,11 +1,11 @@
 # Hi there, I'm Mohamed Najeeb 👋
 
-## I'm a Junior software Developer, Former Electrical Engineer !!
+## I'm a Junior software Developer!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to work in real big projects
+
+- 👯 I’m currently an Internship trainee in ITI 9-month Professional diploma in 
 - 🥅 2022 Goals: To upgrade my skills in Full stack .NET development
-- ⚡ Fun fact: I love travelling / photography
+
 
 ### Connect with me:
 
@@ -37,11 +37,13 @@
 
 </details>
 
+<br />
   <summary>:zap: GitHub Stats</summary>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MONajeeb&show_icons=true&theme=radical"/>
-
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MONajeeb&layout=compact"/>
+
+
 
 [twitter]: https://twitter.com/mohamednajeeb30
 [instagram]: https://instagram.com/mohamednajeeb300
