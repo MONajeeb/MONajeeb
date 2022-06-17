@@ -37,14 +37,11 @@
 
 </details>
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MONajeeb&show_icons=true&theme=radical"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MONajeeb&layout=compact"/>
-
-</details>
 
 [twitter]: https://twitter.com/mohamednajeeb30
 [instagram]: https://instagram.com/mohamednajeeb300
