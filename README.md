@@ -2,7 +2,7 @@
 
 <h3 align="center"> I'm a Junior software Developer! </h3>
 
-![](http://i.imgur.com/OUkLi.gif)
+![](name-of-giphy.gif)
 
 - 👯 I’m currently an Internship trainee in ITI 9-month Professional diploma in
 - 🥅 2022 Goals: To upgrade my skills in Full stack .NET development
