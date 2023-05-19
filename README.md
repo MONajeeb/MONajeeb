@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Mohamed Najeeb 👋 </h1>
 
-<h3 align="center"> I'm a Junior software Developer! </h3>
+<h3 align="center"> I'm a software Developer at Dsquares! </h3>
 
-- 👯 I’m currently an Internship trainee in ITI 9-month Professional diploma in
-- 🥅 2022 Goals: To upgrade my skills in Full stack .NET development
+- 👯 I’m currently working as Full stack developer 
+- 🥅 2023 Goals: To upgrade my skills in Full stack .NET development
 - 📫 How to reach me **mohamednajeeb300@gmail.com**
 
 ## Connect with me:
