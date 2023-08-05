@@ -2,7 +2,7 @@
 
 <h3 align="center"> I'm a Software Developer at Dsquares! </h3>
 
-- 👯 I’m currently working as Full stack developer mainlu with .NET
+- 👯 I’m currently working as Full stack developer mainly with .NET
 - 🥅 2023 Goals: To upgrade my skills in Full stack .NET development
 - 📫 How to reach me **mohamednajeeb300@gmail.com**
 
